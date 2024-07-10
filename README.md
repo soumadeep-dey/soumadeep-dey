@@ -10,9 +10,9 @@
 <p align="left">I am a versatile tech enthusiast specializing in Fullstack development (MERN Stack), with a passion for AI/ML. With proficiency in JavaScript, Python and a robust understanding of Linux, SQL, MongoDB, and Git/Github, I bring a comprehensive skill set to the table.</p>
 
 - 🗺️ I'm based in The City of Joy - Kolkata
-- ✉️ You can contact me at [contactsoumadeepdey@gmail.com](mailto:contactsoumadeepdey@gmail.com)
+- 💬 Ask me about **MERN, React, Node.js, Express.js, MongoDB, etc.**
 - 🤝 I'm open to collaborating on Challenging Projects
-- 🚀 I'm currently learning about Fullstack Web Applications
+- 📫 How to reach me [contactsoumadeepdey@gmail.com](mailto:contactsoumadeepdey@gmail.com)
 
 ---
 

@@ -12,8 +12,7 @@
 - 🗺️ I'm based in The City of Joy - Kolkata
 - 💬 Ask me about **MERN, React, Node.js, Express.js, MongoDB, etc.**
 - 🤝 I'm open to collaborating on Challenging Projects
-- 📫 How to reach me [contactsoumadeepdey@gmail.com](mailto:contactsoumadeepdey@gmail.com)
-- **Connect with me:** &nbsp;&nbsp;
+- 📫 **Connect with me:** &nbsp;&nbsp;
   <a href="https://linkedin.com/in/soumadeep-dey" style="text-decoration: none;">
         <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn">
     </a>&nbsp;&nbsp;

@@ -13,17 +13,13 @@
 - 💬 Ask me about **MERN, React, Node.js, Express.js, MongoDB, etc.**
 - 🤝 I'm open to collaborating on Challenging Projects
 - 📫 How to reach me [contactsoumadeepdey@gmail.com](mailto:contactsoumadeepdey@gmail.com)
-
----
-
-<p style="font-size: 20px;">Connect with me:&nbsp;&nbsp;&nbsp;
- <a href="https://linkedin.com/in/soumadeep-dey" style="text-decoration: none;">
-        <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn">
+- **Connect with me:** &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/soumadeep-dey" style="text-decoration: none;">
+        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn">
     </a>&nbsp;&nbsp;
     <a href="https://youtube.com/@code-heads" style="text-decoration: none;">
-        <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube">
+        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube">
     </a>&nbsp;&nbsp;
     <a href="mailto:contactsoumadeepdey@gmail.com" style="text-decoration: none;">
-        <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail">
+        <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail">
     </a>
-</p>

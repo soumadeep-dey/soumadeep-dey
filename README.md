@@ -39,3 +39,19 @@
     </a>
 </p>
 </div>
+<hr/>
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<div align="left">
+	<h4> Programming Languages</h4>
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,c" />
+	<h4>Frontend Web Development Tools</h4>
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,mui,html,css,figma,vite" />
+	<h4>Backend Web Development Tools</h4>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,npm,postman" />
+	<h4>Version Control & Deployment Tools</h4>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,bash" />
+	<h4>Development Environdent</h4>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,vscode" />
+   
+</div>
+    

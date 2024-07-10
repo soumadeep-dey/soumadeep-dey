@@ -35,7 +35,7 @@
 
 <p align="center">
     <a href="https://github.com/soumadeep-dey/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=soumadeep-dey&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&theme=algolia&theme=juicyfresh" alt="soumadeep-dey" />
+        <img src="https://github-profile-trophy.vercel.app/?username=soumadeep-dey&theme=darkhub&row=1&column=5&margin-w=15&margin-h=15&no-bg=true&theme=algolia&theme=juicyfresh" alt="soumadeep-dey" />
     </a>
 </p>
 </div>

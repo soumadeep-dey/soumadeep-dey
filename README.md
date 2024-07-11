@@ -3,10 +3,10 @@
 
   <tr style="width: 100%;">
 	  <td>
-		  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=700&height=70&duration=2800&lines=Hi+There!+👋;+I'm+Soumadeep+Dey!;" />
+		  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=45&center=true&vCenter=true&width=700&height=70&duration=2800&lines=Hi+There!+👋;+I'm+Soumadeep+Dey!;" />
 	  </td>
    <td style="padding: 10px;">
-      <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="padding: 10px;">
+      <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="padding: 10px;">
     </td>
 	  </tr>
 </h1>

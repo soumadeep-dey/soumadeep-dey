@@ -1,12 +1,17 @@
-<h1 align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=2800&lines=Hi+There!+👋;+I'm+Soumadeep+Dey!;" />
-</h1>
+<table align="center" style="width: 100%;">
+	<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>  
 
-<table style="width: 100%;">
-  <tr>
-    <td style="padding-left: 20px;">
-      <p align="left">I am a versatile tech enthusiast specializing in Fullstack development (MERN Stack), with a passion for AI/ML. With proficiency in JavaScript, Python and a robust understanding of Linux, SQL, MongoDB, and Git/Github, I bring a comprehensive skill set to the table.</p>
+  <tr style="width: 100%;">
+	  <td>
+		  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=700&height=70&duration=2800&lines=Hi+There!+👋;+I'm+Soumadeep+Dey!;" />
+	  </td>
+   <td style="padding: 10px;">
+      <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="padding: 10px;">
+    </td>
+	  </tr>
+</h1>
+</table>
+<p align="left">I am a versatile tech enthusiast specializing in Fullstack development (MERN Stack), with a passion for AI/ML. With proficiency in JavaScript, Python and a robust understanding of Linux, SQL, MongoDB, and Git/Github, I bring a comprehensive skill set to the table.</p>
       <ul>
         <li>🗺️ I'm based in The City of Joy - Kolkata</li>
         <li>💬 Ask me about <strong>MERN, React, Node.js, Express.js, MongoDB, etc.</strong></li>
@@ -23,12 +28,6 @@
           </a>
         </li>
       </ul>
-    </td>
-	  <td style="text-align: center; padding: 10px;">
-      <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="padding: 10px;">
-    </td>
-  </tr>
-</table>
 
 
 ---

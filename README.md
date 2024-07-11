@@ -60,13 +60,13 @@
     </td>
     <td valign="top" align="center">
       <div align="center">
-        <h4>Frontend Web Development Tools</h4>
+        <h4>Frontend Development Tools</h4>
         <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,mui,html,css,vite" />
       </div>
     </td>
     <td valign="top" align="center">
       <div align="center">
-        <h4>Backend Web Development Tools</h4>
+        <h4>Backend Development Tools</h4>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,npm,postman" />
       </div>
     </td>

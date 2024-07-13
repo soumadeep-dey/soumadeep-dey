@@ -28,7 +28,7 @@
 
 <img width="49%" height="165px" src="https://github-readme-stats.vercel.app/api?username=soumadeep-dey&layout=compact&hide_border=true&title_color=00aeff&text_color=00aeff&bg_color=0d1117" />
 <img width="41%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumadeep-dey&layout=compact&hide_border=true&title_color=00aeff&text_color=00aeff&bg_color=0d1117" />
-<img width="100%" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=soumadeep-dey&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
 
 <p align="center">
     <a href="https://github.com/soumadeep-dey/github-profile-trophy">

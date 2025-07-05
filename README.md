@@ -4,22 +4,19 @@
 </h1>
  <p align="left">I am a versatile tech enthusiast specializing in Fullstack development (MERN Stack), with a passion for AI/ML. With proficiency in JavaScript, Python and a robust understanding of Linux, SQL, MongoDB, and Git/Github, I bring a comprehensive skill set to the table.</p>
       <ul>
-        <li>🗺️ I'm based in The City of Joy - Kolkata</li>
-        <li>💬 Ask me about <strong>MERN, React, Node.js, Express.js, MongoDB, etc.</strong></li>
-        <li>🤝 I'm open to collaborating on Challenging Projects</li>
         <li>📫 <strong>Connect with me:</strong>&nbsp;&nbsp;
           <a href="https://linkedin.com/in/soumadeep-dey" style="text-decoration: none;">
-            <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn">
+            <img style="height: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn">
           </a>&nbsp;&nbsp;
           <a href="https://youtube.com/@code-heads" style="text-decoration: none;">
-            <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube">
+            <img style="height: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube">
           </a>&nbsp;&nbsp;
           <a href="mailto:contactsoumadeepdey@gmail.com" style="text-decoration: none;">
-            <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail">
+            <img style="height: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail">
           </a>
         </li>
       </ul>
-      
+
 ---
 
 <div align="center">
@@ -28,7 +25,6 @@
 
 <img width="49%" height="165px" src="https://github-readme-stats.vercel.app/api?username=soumadeep-dey&layout=compact&hide_border=true&title_color=00aeff&text_color=00aeff&bg_color=0d1117" />
 <img width="41%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumadeep-dey&layout=compact&hide_border=true&title_color=00aeff&text_color=00aeff&bg_color=0d1117" />
-
 
 <p align="center">
     <a href="https://github.com/soumadeep-dey/github-profile-trophy">
@@ -82,5 +78,3 @@
     
   </tr>
 </table>
-
-    
